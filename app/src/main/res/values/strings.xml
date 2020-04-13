@@ -1,0 +1,141 @@
+<resources>
+    <string name="app_name">Docket In Your Pocket</string>
+    <string name="appTitle">DOCKET IN YOUR POCKET</string>
+
+    <string name="staffID">STAFF ID</string>
+    <string name="login">LOGIN</string>
+
+    <string name="tables">TABLES</string>
+    <string name="table1">1</string>
+    <string name="table2">2</string>
+    <string name="table3">3</string>
+    <string name="table4">4</string>
+    <string name="table5">5</string>
+    <string name="table6">6</string>
+
+    <string name="orderItems">Order Items</string>
+    <string name="barButton">Bar</string>
+    <string name="barfoodButton">Barfood</string>
+    <string name="openComment">Open Comment</string>
+
+    <string name="starter">Starter</string>
+    <string name="grill">Grill</string>
+    <string name="specialities">Specialities</string>
+    <string name="desserts">desserts</string>
+    <string name="salads">Salads</string>
+    <string name="sea">Sea</string>
+    <string name="sides">Sides</string>
+    <string name="pizza">Pizza</string>
+    <string name="kids">Kids</string>
+    <string name="sandwiches">Sandwiches</string>
+    <string name="teaCoffee">Tea/Coffee</string>
+    <string name="defaultMenu">Default Menu</string>
+    <string name="total">Total</string>
+    <string name="orderButton">Order</string>
+
+    <string name="slogan">WELCOME TO D0CKET IN YOUR POCKET</string>
+    <string name="Logo">Logo</string>
+
+    <string name="volauvent">Vol-au-Vent</string>
+    <string name="chickenwings">Chicken Wings</string>
+    <string name="soup">Soup of the Day</string>
+    <string name="chowder">Seafood Chowder</string>
+    <string name="brie">Brie</string>
+    <string name="mushrooms">Garlic Mushrooms</string>
+    <string name="gprawns">Garlic Prawns</string>
+    <string name="tprawns">Tempura Prawns</string>
+
+    <string name="bburger">Beef Burger</string>
+    <string name="cburger">Chicken Burger</string>
+    <string name="sfburger">Southern Fried Burger</string>
+    <string name="ssand">Steak Sandwich</string>
+    <string name="sandt">Surf and Turf</string>
+    <string name="steak">Steak</string>
+    <string name="pork">Pulled Pork</string>
+    <string name="brisket">Brisket</string>
+
+    <string name="halfportion">Main Half Portion</string>
+    <string name="roast">Roast of the Day</string>
+    <string name="korma">Chicken Korma</string>
+    <string name="shank">Lamb Shank</string>
+    <string name="spagbol">Spaghetti Bolognese</string>
+    <string name="pie">Beef Pie</string>
+    <string name="carb">Carbonara</string>
+    <string name="veg">Veg Korma</string>
+
+    <string name="applepie">Apple Pie</string>
+    <string name="icecream">Selection of Ice Cream</string>
+    <string name="eton">Eton Mess</string>
+    <string name="brownie">Chocolate Brownie</string>
+    <string name="cheesecake">Cheesecake</string>
+
+    <string name="ceaser">Ceaser Salad</string>
+    <string name="superfood">Superfood Salad</string>
+    <string name="goat">Goats Cheese Salad</string>
+    <string name="shredded">Shredded Chicken Salad</string>
+
+    <string name="salmon">Salmon</string>
+    <string name="bass">Sea Bass</string>
+    <string name="fandc">Fish and Chips</string>
+    <string name="fry">Prawn Stir Fry</string>
+    <string name="curry">Prawn Curry</string>
+    <string name="pasta">Prawn Pasta</string>
+
+    <string name="chips">Chips</string>
+    <string name="mash">Mash</string>
+    <string name="sweet">Sweet Potato Fries</string>
+    <string name="garlic">Garlic Cheese Bread</string>
+    <string name="onion">Onion Rings</string>
+    <string name="side">Side Salad</string>
+    <string name="soveg">Veg</string>
+
+    <string name="cyo">Create Your Own</string>
+    <string name="xtra">Xtra Topping</string>
+    <string name="pep">Pepperoni</string>
+    <string name="marg">Margaretta</string>
+    <string name="vegetarian">Vegetarian</string>
+
+    <string name="goujons">Chicken Goujons</string>
+    <string name="burger">Burger</string>
+    <string name="sausages">Sausages</string>
+    <string name="bangers">Bangers and Mash</string>
+    <string name="baby">Baby Bowl</string>
+    <string name="fish">Fish Goujons</string>
+
+    <string name="toasted">Toasted Sandwich</string>
+    <string name="sand">Sandwich</string>
+    <string name="wrap">Wrap</string>
+    <string name="ceaserwrap">Ceaser Wrap</string>
+    <string name="ultimate">Ultimate Ham and Cheese</string>
+    <string name="club">Club Sandwich</string>
+    <string name="special">Toasted Special</string>
+    <string name="tuna">Tuna Melt</string>
+
+    <string name="tea">Tea</string>
+    <string name="americano">Americano</string>
+    <string name="latte">Latte</string>
+    <string name="capp">Cappuccino</string>
+    <string name="herbal">Herbal Tea</string>
+    <string name="hot">Hot Chocolate</string>
+    <string name="mocha">Mocha</string>
+    <string name="decaf">Decaf</string>
+    <string name="esp">Espresso</string>
+    <string name="filter">Filter Coffee</string>
+    <string name="flat">Flat White</string>
+
+    <string name="split">Splits</string>
+    <string name="mixer">Mixer</string>
+    <string name="juice">Juice</string>
+    <string name="dash">Dash</string>
+    <string name="spirit">Spirits</string>
+    <string name="pint">Pints</string>
+    <string name="bottle">Bottles</string>
+    <string name="cocktail">Cocktails</string>
+    <string name="lc">Liqueur Coffees</string>
+
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+
+</resources>

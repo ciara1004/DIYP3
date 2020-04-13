@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "440948287974",
+    "firebase_url": "https://docket-in-your-pocket.firebaseio.com",
+    "project_id": "docket-in-your-pocket",
+    "storage_bucket": "docket-in-your-pocket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440948287974:android:b0ed6ae844c3395aa90e27",
+        "android_client_info": {
+          "package_name": "org.wit.diyp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440948287974-ivt7lv914e2pdvkr7cvtqvfcindcrhpi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.wit.diyp1",
+            "certificate_hash": "91002732a39e86d52631f01d882432f9c0f5eefe"
+          }
+        },
+        {
+          "client_id": "440948287974-78dj1p1h7u3go91cbrke640pnf4b6ol0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALxU6cMI7M1fnKxnIhbhzIcHkf9pJ1Y8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440948287974-78dj1p1h7u3go91cbrke640pnf4b6ol0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
